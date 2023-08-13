@@ -2,7 +2,7 @@
 This React calculator performs simple arithmetic operations implementing the shunting yard algorithm.
 
 # Demo
-<a href="https://savnnaka.github.io/cat_calculator/">Calculator</a>
+<a href="https://savnnaka.github.io/cat_calculator/">https://savnnaka.github.io/cat_calculator/</a>
 
 # How to run the Project
 1) Enable legacy OpenSSL provider:
