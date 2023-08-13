@@ -6,5 +6,5 @@ This React calculator performs simple arithmetic operations implementing the shu
 
 # How to run the Project
 1) Enable legacy OpenSSL provider:
-export NODE_OPTIONS=--openssl-legacy-provider
+`export NODE_OPTIONS=--openssl-legacy-provider`
 2) npm start
